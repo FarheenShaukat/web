@@ -1,3 +1,28 @@
 h1{
     background-color: beige;
 }
+fieldset{
+    background-color: rgb(141, 113, 167);
+    font-style: italic;
+    color: white;
+    border-radius: 2cm;
+    margin: 30px;
+    padding: 70px;
+    text-align: center;
+}
+legend{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    columns: black;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    display:flex;
+    border-radius: 80%;
+    box-shadow:10cap rgba(0,0,0,0.5);
+    ruby-align: right;
+}
